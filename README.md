@@ -1,4 +1,4 @@
-[![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/disp/43172b22243917.5630f07edae58.gif)]
+![MasterHead](https://developers.giphy.com/branch/master/static/why_4-dbf60f160acb0c6f22c6260bd3a8c6b5.gif)
 <h1 align="center">Hi 👋, I'm Maureen Ndinda</h1>
 <h3 align="center">A passionate software engineer from Kenya</h3>
 
