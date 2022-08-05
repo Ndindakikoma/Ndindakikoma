@@ -1,4 +1,4 @@
-![MasterHead](https://developers.giphy.com/branch/master/static/why_4-dbf60f160acb0c6f22c6260bd3a8c6b5.gif)
+![MasterHead](https://apptha-blog.s3.amazonaws.com/blog/wp-content/uploads/2019/11/skills-for-front-end-back-end-developer.jpg)
 <h1 align="center">Hi 👋, I'm Maureen Ndinda</h1>
 <h3 align="center">A passionate software engineer from Kenya</h3>
 
