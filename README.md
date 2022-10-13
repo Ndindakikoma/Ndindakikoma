@@ -34,4 +34,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ndindakikoma&show_icons=true&locale=en" alt="ndindakikoma" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ndindakikoma&" alt="ndindakikoma" /></p>
+
