@@ -6,7 +6,7 @@
 
 
 
-- 🔭 I’m currently working on [school_management_system]([(https://github.com/Ndindakikoma/school_management_system)])
+- 🔭 I’m currently working on [school_management_system](https://github.com/Ndindakikoma/school_management_system)
 
 - 🌱 I’m currently learning **C and Python**
 
