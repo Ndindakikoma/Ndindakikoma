@@ -6,11 +6,11 @@
 
 
 
-- 🔭 I’m currently working on [school_management_system](https://github.com/Ndindakikoma/school_management_system)
+- 🔭 I’m currently working on Mata
 
 - 🌱 I’m currently learning **C and Python**
 
-- 👯 I’m looking to collaborate on [Simple shell](https://github.com/Ndindakikoma/simple_shell.git)
+- 👯 I’m looking to collaborate on Mata
 
 - 🤝 I’m looking for help with **Data structures and algorithms**
 
