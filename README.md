@@ -1,16 +1,12 @@
 ![MasterHead](https://apptha-blog.s3.amazonaws.com/blog/wp-content/uploads/2019/11/skills-for-front-end-back-end-developer.jpg)
 <h1 align="center">Hi 👋, I'm Maureen Ndinda</h1>
-<h3 align="center">A passionate software engineer from Kenya</h3>
+<h3 align="center">A passionate UI/UX designer from Kenya</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ndindakikoma&label=Profile%20views&color=0e75b6&style=flat" alt="ndindakikoma" /> </p>
 
 
 
-- 🔭 I’m currently working at Fullbooker**
-
-- 🌱 I’m currently doing UI/UX**
-
-- 🤝 I’m looking for help with **Data structures and algorithms**
+- 🔭 I’m currently working at Fullbooker
 
 - 💬 Ask me about **Anything, I will come up with something**
 
