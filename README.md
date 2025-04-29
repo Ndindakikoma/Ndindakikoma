@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **Anything, I will come up with something**
 
-- 📫 How to reach me **ndindakikoma@gmail.com**
+- 📫 How to reach me **maureenkikoma@gmail.com**
 
 - ⚡ Fun fact **Penguins evolved to fly underwater**
 
