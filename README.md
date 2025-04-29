@@ -1,4 +1,3 @@
-![MasterHead](https://apptha-blog.s3.amazonaws.com/blog/wp-content/uploads/2019/11/skills-for-front-end-back-end-developer.jpg)
 <h1 align="center">Hi 👋, I'm Maureen Ndinda</h1>
 <h3 align="center">A passionate UI/UX designer from Kenya</h3>
 
@@ -13,7 +12,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/@NdindaKikoma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@macrinah" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ndinda-kikoma-49b7ba177/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ndinda-kikoma-49b7ba177/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/maureen-ndinda-49b7ba177/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ndinda-kikoma-49b7ba177/" height="30" width="40" /></a>
 <a href="https://instagram.com/_macrinah_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_macrinah_" height="30" width="40" /></a>
 </p>
 
