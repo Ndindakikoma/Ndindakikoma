@@ -6,11 +6,9 @@
 
 
 
-- 🔭 I’m currently working on Mata
+- 🔭 I’m currently working at Fullbooker**
 
-- 🌱 I’m currently learning **C and Python**
-
-- 👯 I’m looking to collaborate on Mata
+- 🌱 I’m currently doing UI/UX**
 
 - 🤝 I’m looking for help with **Data structures and algorithms**
 
